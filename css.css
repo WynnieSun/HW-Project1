@@ -2,15 +2,8 @@
 
 body{
 font-family: 'Amaranth', sans-serif;  
-/*color:#2f4f4f;*/
-margin-left:200px;
 background-color:#E7AF84;
-height:100%;
-background-image:url("21.png");
-background-position: right top;
-background-repeat:no-repeat;
-background-attachment: fixed;
-background_height:100px;}
+}
 
 
 h1{
