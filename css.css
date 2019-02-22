@@ -3,12 +3,12 @@
 body{
 font-family: 'Amaranth', sans-serif;  
 background-color:#E7AF84;
+  text-align:center;
 }
 
 
 h1{
   font-family: 'Shadows Into Light', cursive;
-  text-align:center;
   color: black;
   font-size:60px;
   margin: 0px;}
