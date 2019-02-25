@@ -5,12 +5,14 @@ font-family: 'Amaranth', sans-serif;
 background-color:#E7AF84;
 }
 
-
 h1{
   font-family: 'Shadows Into Light', cursive;
   color: black;
-  font-size:60px;
+  font-size: 60px;
   margin: 0px;}
+
+li{
+  line-height: 2em;}
 
 
 
